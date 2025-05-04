@@ -1,5 +1,5 @@
 // admin.js
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = 'mongodb+srv://admin:admin@cluster0.eb80mr0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 const adminPanel = document.getElementById('admin-panel');
 const logoutLink = document.getElementById('logout-link');
 
